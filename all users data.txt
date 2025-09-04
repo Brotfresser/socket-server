@@ -1,0 +1,4 @@
+26.109.113.187 Brotfresser game user.color_status=f"{colorama.Fore.LIGHTMAGENTA_EX}<Первооснователь> "; print("успешно присоединился")
+
+26.254.129.249 radbrok Nonee user.color_status=f"{colorama.Fore.LIGHTBLUE_EX}<Почётный спамер> "
+
